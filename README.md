@@ -1,7 +1,7 @@
-# YouTube Playlist Downloader Fork because the original guy was Zionist as hell 
+# YouTube Playlist Downloader Fork Because I LOVE ISRAEL
 
-# Stand with Palestine!
-# Fuck Israel!
+# Stand with ISRAEL!
+# LOVE Israel!
 
 ## If the files don't show up after you download a playlist, try running the program as administrator or change the save directory to a different drive! (C drive is usually protected by windows, save it under D or any other drive)
 
